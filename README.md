@@ -1,7 +1,7 @@
 # Nbody
 
 This is a numerical software that I developed for my Ph.D. 
-It is a N-body code.
+It is a N-body code which computes the trajectory of a large number of asteroids (~10 thousands ore more) under the gravitational influence of the central star and a planet. 
 
 
 
